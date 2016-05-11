@@ -1,6 +1,6 @@
 <? Php
 
-use EasyWeChat\Foundation\Application;
+use Foundation\Application;
 
 $options = [
     'debug'     => true,
