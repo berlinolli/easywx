@@ -1,0 +1,1 @@
+﻿Sample code implemented in PHP and provided for reference to developers. All developers must cache the retrieved access_token and jsapi_ticket to avoid frequency caps.
