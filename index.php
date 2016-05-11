@@ -4,7 +4,7 @@
   */
 
 //define your token
-define("TOKEN", "THISISCONNECTED");
+define("TOKEN", "lHYH0N858O249oF3D5530oUlB9lGMlKO");
 $wechatObj = new wechatCallbackapiTest();
 $wechatObj->valid();
 
