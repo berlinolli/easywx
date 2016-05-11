@@ -1,9 +1,4 @@
-  ```shell
-  composer require "overtrue/wechat:~3.0" -vvv
-  ```
-
-```php
-<?php
+<? Php
 
 use EasyWeChat\Foundation\Application;
 
@@ -31,5 +26,3 @@ $server->setMessageHandler(function($message) use ($user) {
 });
 
 $server->serve()->send(); 
-```
-
